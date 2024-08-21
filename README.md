@@ -2,7 +2,7 @@
 # Desafio TechBiz: Transformação Automatizada de Dados Diversos para JSON Padronizado
 ## Descrição do Desafio
 
-Neste desafio, criaremos uma solução automatizada para converter entradas de dados em vários formatos (XML, JSON, CSV, HTML) para JSON . O modelo é padronizado. O objetivo é combinar e integrar informações de diversas fontes, criando sistemas inteligentes e robustos que possam lidar com a diversidade e complexidade dos dados.
+Neste desafio, criaremos uma solução automatizada para converter entradas de dados em vários formatos (XML, JSON, CSV, HTML) para JSON. O modelo é padronizado. O objetivo é combinar e integrar informações de diversas fontes, criando sistemas inteligentes e robustos que possam lidar com a diversidade e complexidade dos dados.
 
 ### Principais desafios
 
